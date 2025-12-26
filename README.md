@@ -17,11 +17,16 @@
 
 ### 🚀 About Me
 
-I am a third-year Computer Engineering student passionate about building **scalable backend systems**, **big data architectures**, and **high-performance network tools**. I enjoy diving deep into how things work under the hood, from TCP/IP protocols to distributed systems.
+### 🚀 Professional Summary
 
-* 🔭 I’m currently working on **Real-Time Big Data Analysis & High-Performance Networking**.
-* 🌱 I’m currently learning **Advanced System Design & Microservices**.
-* 💻 I love writing code in **Java, Go, and Python**.
+I am a Computer Engineering student with a strong engineering mindset, focused on designing **resilient distributed systems** and **high-throughput backend architectures**. 
+
+Unlike a typical student approach, I focus on **system reliability, concurrency models, and resource efficiency** (memory/CPU optimization). My goal is to build enterprise-grade software that is not only functional but also scalable and cost-effective.
+
+* 🔭 **Currently Building:** Event-Driven Microservices & Real-Time Data Pipelines (Kafka, Spark).
+* 🌱 **Deepening Knowledge in:** Cloud-Native Patterns, Kubernetes Orchestration & System Internals.
+* 💡 **Core Philosophy:** "Build it secure, make it scalable, keep it efficient."
+* 💻 **Tech Stack Focus:** Java (Spring Boot), Go (High Performance), Python (Data Engineering).
 
 ---
 
