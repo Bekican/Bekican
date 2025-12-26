@@ -4,10 +4,10 @@
   
   **Computer Engineering Student (3rd Year) | Backend Enthusiast | System Architect**
 
-  <a href="https://linkedin.com/in/SENIN-LINKEDIN-ADRESIN">
+  <a href="www.linkedin.com/in/bekircancakmak">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SENIN-EMAIL-ADRESIN">
+  <a href="mailto:bekircan3634@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
