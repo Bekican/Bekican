@@ -17,7 +17,6 @@
 
 ### 🚀 About Me
 
-### 🚀 Professional Summary
 
 I am a Computer Engineering student with a strong engineering mindset, focused on designing **resilient distributed systems** and **high-throughput backend architectures**. 
 
