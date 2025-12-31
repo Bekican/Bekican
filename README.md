@@ -1,4 +1,4 @@
-# Hi there, I'm Bekir Can Çakmak! 👋
+# Hi , I'm Bekir Can Çakmak! 👋
 
 <div align="center">
   
