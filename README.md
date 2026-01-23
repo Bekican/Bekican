@@ -22,7 +22,7 @@ I am a Computer Engineering student with a strong engineering mindset, focused o
 
 I focus on **system reliability, concurrency models, and resource efficiency** (memory/CPU optimization). My goal is to build enterprise-grade software that is not only functional but also scalable and cost-effective.
 
-* 🔭 **Currently Building:** Event-Driven Microservices & Real-Time Data Pipelines (Kafka, Spark).
+* 🔭 **Currently Building:** Event-Driven Backend Services & Real-Time Data Pipelines (Kafka, Spark).
 * 🌱 **Deepening Knowledge in:** Cloud-Native Patterns, Kubernetes Orchestration & System Internals.
 * 💡 **Core Philosophy:** "Build it secure, make it scalable, keep it efficient."
 * 💻 **Tech Stack Focus:** Java (Spring Boot), Go (High Performance), Python (Data Engineering).
