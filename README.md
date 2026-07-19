@@ -25,7 +25,7 @@ I focus on **system reliability, concurrency models, and resource efficiency** (
 * 🔭 **Currently Building:** Event-Driven Backend Services & Real-Time Data Pipelines (Kafka, Spark).
 * 🌱 **Deepening Knowledge in:** Cloud-Native Patterns, Kubernetes Orchestration & System Internals.
 * 💡 **Core Philosophy:** "Build it secure, make it scalable, keep it efficient."
-* 💻 **Tech Stack Focus:** Java (Spring Boot), Go (High Performance), Python (Data Engineering).
+* 💻 **Tech Stack Focus:** Go (High Performance), Javascript(Advanced Fullstack Development),.NET(Enterprise backend systems).
 
 ---
 
