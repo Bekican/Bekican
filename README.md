@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  **Computer Engineering Student (3rd Year) | Backend Enthusiast | System Architect**
+  **Computer Engineering Student (4rd Year) | Backend Enthusiast | System Architect**
 
   <a href="https://www.linkedin.com/in/bekircancakmak/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
